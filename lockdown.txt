@@ -1,0 +1,10 @@
+REM TITLE Lockdown Windows and Mac
+REM VERSION 1.0
+REM DATE 03-12-2025
+REM AUTHOR Zedasix
+REM DESCRIPTION Lock Mac or Windows computer with a simple script.
+DELAY 1000
+GUI l
+DELAY 200
+CTRL GUI q
+REM END
