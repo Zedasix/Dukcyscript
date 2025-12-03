@@ -1,0 +1,13 @@
+REM The classic rick roll
+DEFAULT_DELAY 700
+REM Open video:
+CTRL ESC
+STRING cmd
+ENTER
+DELAY 700
+STRING start msedge https://www.youtube.com/watch?v=dQw4w9WgXcQ
+ENTER
+REM Fullscreen video:
+DELAY 1000
+STRING f
+SPACE
